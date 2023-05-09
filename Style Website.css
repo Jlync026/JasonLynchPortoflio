@@ -1,0 +1,206 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*----------------edit here ------------------*/
+
+
+body{
+	
+	background-color: lightblue;
+	font-size: 12px;	
+}
+
+header{
+    background-color: black;
+	border-bottom: 10px solid red;
+	text-align: center;
+	width: 100%;
+	overflow: auto;
+	
+}
+
+	footer{
+    background-color: red;
+	border-top: 10px solid black;
+	text-align: center;
+	width: 100%;
+	height: 8%;
+	overflow: auto;
+	position: absolute
+	
+}
+
+
+	
+h1{
+	font-size: 64px;
+	color: white;
+	text-align: center;
+	
+}
+
+li{
+	
+	display: inline-block;
+	padding: 10px;
+}
+
+li a{
+	color: white;
+	font-size: 150%;
+	text-decoration: none;
+}
+
+li a:hover{
+
+	text-decoration: underline;
+}
+p{
+	font-size: 400%;
+    margin: 0 20%;
+}
+
+
+.Jason{
+	text-align:center;margin: 0px auto;
+	width: 360px;
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.2;
+	border: 10px solid red;
+	
+}
+
+#hpImage{
+	text-align:center;margin: 30px auto;width: 100%;
+}
+
+
+.Jasonn{
+	float: right; margin: 0;
+	width: 360px;
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.5;
+	border: 10px solid red;
+	
+}
+
+	h2, h3, h5{
+		
+	font-size: 64px;
+	color: white;
+	text-align: center;
+}
+
+	h4{
+	font-size: 40px;
+	color: Blue;
+	text-align: center;
+	
+	}
+	
+	.Jasonnn{
+	float: right; margin: 0;
+	width: 360px;
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.5;
+	border: 10px solid red;
+	
+	}
+	
+	.News{
+	float: right; margin: 0;
+	width: 360px;
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.5;
+	border: 10px solid red;
+	
+	}
+	
+
+	
+	.NewsR{
+	width: 360px;
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.5;
+	border: 5px solid red;
+	
+	}
+	
+	.NewsRe{
+	width: 360px;
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.5;
+	border: 5px solid red;
+		
+	}
+	
+
+	.Anchor{
+	width: 360px;
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.5;
+	border: 5px solid red;
+	
+	}
+
+	h6{
+	font-size: 40px;
+	color: Blue;
+	text-align: center;
+	
+	}
+	
+
